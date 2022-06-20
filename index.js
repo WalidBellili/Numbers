@@ -19,3 +19,11 @@
 // EXO 4
 const test = 12
 const bis = 5
+
+console.log(test + bis);
+console.log(test - bis);
+console.log(test / bis);
+console.log(test * bis);
+console.log(test % bis);
+console.log(test ** bis);
+
